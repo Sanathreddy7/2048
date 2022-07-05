@@ -1,0 +1,60 @@
+.boardwrapper {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.newgame {
+    padding: 10px;
+    border-radius: 10px;
+    font-size: 1rem;
+    background-color: #8ecae6;
+    transition: all 300ms;
+    position: absolute;
+    top: 250px;
+    right: 75px;
+}
+
+.newgame:hover {
+    cursor: pointer;
+    background-color: #457b9d;
+    color: antiquewhite;
+}
+
+.how2playWrapper {
+    color: white;
+    width: 50%;
+    margin: auto;
+    margin-top: 10vh;
+}
+
+.how2playWrapper p {
+    color: white;
+    margin: auto;
+    font-size: large;
+    padding-bottom: 3rem;
+}
+
+.arrowkeys {
+    height: 4rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10vh;
+}
+
+.arrow {
+    color: black;
+    font-size: 2rem;
+}
+
+.arrowkeys div {
+    background-color: whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    margin: 10px;
+}

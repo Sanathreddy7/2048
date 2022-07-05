@@ -1,0 +1,75 @@
+.cell {
+    height: 100px;
+    width: 100px;
+    background-color: #8ecae6;
+    border-radius: 8px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: "Clear Sans";
+}
+
+.number {
+    height: 100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.color-2 {
+    background-color: #f5ebe0;
+    border-radius: 4px;
+}
+
+.color-4 {
+    background-color: #eec;
+    border-radius: 4px;
+}
+
+.color-8 {
+    background-color: #fb8;
+    border-radius: 4px;
+}
+
+.color-16 {
+    background-color: #f96;
+    border-radius: 4px;
+}
+
+.color-32 {
+    background-color: #f75;
+    border-radius: 4px;
+}
+
+.color-64 {
+    background-color: #f53;
+    border-radius: 4px;
+}
+
+.color-128 {
+    background-color: #ec7;
+    border-radius: 4px;
+}
+
+.color-256 {
+    background-color: #ec6;
+    border-radius: 4px;
+}
+
+.color-512 {
+    background-color: #ec5;
+    border-radius: 4px;
+}
+
+.color-1024 {
+    background-color: #ec3;
+    border-radius: 4px;
+}
+
+.color-2048 {
+    background-color: #ec2;
+    border-radius: 4px;
+}
